@@ -1,5 +1,6 @@
 Nome Tabella: Auto usate
 
+Targa: Primary Key - VARCHAR(9) 
 Tipo di veicolo: VARCHAR(20)
 Marca: VARCHAR(20)
 Modello: VARCHAR(30)
