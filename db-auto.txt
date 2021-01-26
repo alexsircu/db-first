@@ -1,0 +1,18 @@
+Nome Tabella: Auto usate
+
+Tipo di veicolo: VARCHAR(20)
+Marca: VARCHAR(20)
+Modello: VARCHAR(30)
+Versione: VARCHAR(20)
+Chilometraggio: MEDIUMINT
+Carburante: VARCHAR(20)
+Potenza: SMALLINT
+Cavalli: SMALLINT
+Cambio: VARCHAR(20)
+N. di posti: TINYINT
+N. di porte: TINYINT
+Prezzo: DOUBLE(9,2)
+Anno di immatricolazione: YEAR
+Luogo di immatricolazione: VARCHAR(30)
+
+
